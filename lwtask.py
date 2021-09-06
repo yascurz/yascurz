@@ -1,5 +1,4 @@
 print('*'*80)
-print('.......................Welcome to Sandeep MLOps task o1...........................')
 import pandas as pd 
 from sklearn.linear_model import LinearRegression
 print('*'*80)
